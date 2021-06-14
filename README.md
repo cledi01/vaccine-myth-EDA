@@ -1,5 +1,7 @@
 # vaccine-myth-EDA
 
+Data from: https://www.kaggle.com/gpreda/reddit-vaccine-myths
+
 Dimension Reduction Plots:
 ![plot](https://github.com/cledi01/vaccine-myth-EDA/blob/main/examples/Screenshot%20(64).png)
 
